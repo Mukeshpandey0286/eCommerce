@@ -1,1 +1,1 @@
-This is a fully functional eCommerce website by Django.
+This is a fully functional eComerce website by Django.
